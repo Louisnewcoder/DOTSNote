@@ -12,6 +12,8 @@ Components µÄ±¾ÖÊÊÇÊý¾Ý¡£ÔÚÓÎÏ·ÖÐ´ú±í×ÅÄ³¸öÓÎÏ·ÔªËØÉíÉÏµÄÒ»¸öÌØµã£¬¿ÉÄÜÊÇËÙ¶È£¬¿
 ## Systems
 Systems µÄ±¾ÖÊÊÇÓÎÏ·Âß¼­»òÕßÊý¾Ý¼ÆËã¹æÔò¡£Í¬Ê±ÔÚÓÚJobsÏµÍ³»¥¶¯Ê±£¬ ¸ºÔð¹ÜÀíºÍµ÷¶ÈJob¡£Ëü¸ºÔð¶Ô·ûºÏ¿ª·¢ÕßÖ¸¶¨µÄqueryÃèÊöµÄentities°´ÕÕ¿ª·¢ÕßµÄ´úÂë½øÐÐ²Ù×÷¡£ÔÚDOTS¼Ü¹¹ÄÚµ£ÈÎ×ÅÀàËÆMonoBehaviourµÄ½ÇÉ«£¬µ«ÊÇÈ´²»ÐèÒª¹ÒÔØµ½GameObjectÉíÉÏ¡£
 
+ÁíÍâÐèÒª×¢ÒâµÄÊÇ£¬systemÖ»ÄÜ´¦ÀíËüËù¹éÊôµÄWorldÖÐµÄentities
+
 queryÃèÊö ÊÇ¿ª·¢ÕßÖ¸Ê¾ System ¶ÔÄÄÐ©==Êý¾Ý¼´Component==½øÐÐ²Ù×÷µÄÖ¸Ê¾¡£ÕâÓëÃæÏò¶ÔÏó¿ª·¢ÊÇÍêÈ«²»Í¬µÄ¡£Í¬ÑùµÄComponents×éºÏ¿ÉÄÜ»á³öÏÖÔÚ²»Í¬µÄArchetypesÖÐ£¬ËùÒÔqueryÃèÊöµÄÉè¼Æ±ØÐëÒª×¼È·£¬·ñÔò¿ÉÄÜºÜÈÝÒ×»á³öÏÖÒâÍâµÄÏÖÏó¡£±ÈÈç£¬Èç¹ûÔÚÃæÏò¶ÔÏóµÄ¿ª·¢Ä£Ê½ÖÐ£¬ÎÒÏë²Ù×÷·É»úÖ»ÐèÒªÃ÷È·Ö¸¶¨·É»úÕâ¸öÀàµÄÊµÀý¾Í¿ÉÒÔÁË£¬²»»áÓ°Ïìµ½Ì¹¿Ë¡£µ«ÊÇÔÚDOTS×ÅÕâÖÖÃæÏòÊý¾ÝµÄ¿ª·¢Ä£Ê½ÖÐ£¬ÎÒÒª²Ù×÷µÄÊÇÒÆ¶¯ComponentºÍ×ªÏòComponent£¬Èç¹ûÎÒÖ»²éÑ¯ÕâÁ½¸ö×é¼þ£¬ÄÇÃ´·É»ú£¬Ì¹¿Ë£¬ÈËÀà¶¼ÓÐ¿ÉÄÜ´øÓÐÕâÁ½¸ö×é¼þ£¬¶¼»á±»Ó°Ïì¡£ËùÒÔÒªÔÚÎªÓÎÏ·ÔªËØÉè¼ÆComponents×éºÏµÄÊ±ºòÒª¿¼ÂÇÔÚÎ´À´queryµÄÊ±ºòÈçºÎÄÜ¹»¸üÇáËÉµÄÅÅ³ý²»±ØÒªµÄArchetypes£¬¾«×¼µÄÕÒµ½×Ô¼ºÏëÒªµÄ¡£
 
 # JobsÏµÍ³
